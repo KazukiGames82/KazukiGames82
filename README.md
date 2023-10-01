@@ -1,14 +1,4 @@
-## Rainmeter Skins
-<details>
-  <summary>📌 K-OS (No Release Date)</summary>
-  
-  &nbsp;
-  <a href="https://github.com/KazukiGames">
-    <img src="https://img.shields.io/badge/private repo-red?style=for-the-badge"/></a>
-  <a href="https://github.com/KazukiGames/K-OS/releases">
-    <img src="https://img.shields.io/github/release/KazukiGames/K-OS?style=for-the-badge&logo=github&color=2d780b&logoColor=D9E0EE"/></a>
-</details>
-
+Rainmeter Skins:
 <details>
   <summary>🕑 ttyclock</summary>
   
