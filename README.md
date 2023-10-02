@@ -1,5 +1,6 @@
-## I'm KazukiGames82
-
+<h2 align="center">
+I'm KazukiGames82
+</h2>
 <p align='center'><br/><img src="https://img.shields.io/badge/Huawei_MateBook_D15-FF0000?style=for-the-badge&logo=huawei&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/windows_11-%230071C5.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/intel-core_i5_11th-%230071C5.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAB1klEQVR4nO3UTYiOURQH8IeMWGCMUUqIshiSYoqFkBShsCDNykIjC3s11ORzwUYWGlmwIGksZoHFICylKDbkIxYSkqjZ+PjpcJ56G8+85o2SmlO35z73nnP/5/7P/9yiGLH/wjABm3EE13EX9/AUT/J7BXsws5GD1+EsLmE3lmFKhd9ELMVxvMOpSKrewSvTeRvGN3jbZvThzi+xsZB0zGnk0DAsxNycj8UDdP/YzMXWWMC1osIwG4er9nI/sj5a89+JR+XPKmzHfKzAOCzOsQCjsRxfI9OMmZpUtgwBsBYDMZmEXowqb4A2P+0+3qInAb6hH+1ZzOD5dSinAmAnXsTkADbl4mCAFuxKPgPgS/qdw/m8Ych1by0AxqSUTxaZRXMdgE48HARwNeN6cnSUAElnKPADZoXzx6AnA7vqACxKijoy46BvYxQe03AhAQ7iE1aXXL0suy+57Mpvf0p2PU5njfblPERwCDcy20hkXnZ7jOm18rocdSj+gmFG1eIafMaWPzh4Cc7gzVAO+5Pz3uyJpt8cOBkbcAyPMzZ65GK9oK14ns4DKbO+CMrHLmpyO3Vfa8+yuG3DuWpTUnYCt/AqVRbqeR+Ng5v5Wu6Iwg6HwhH7t/Yd5ywYeVaxtjUAAAAASUVORK5CYII=&logoColor=white" />
