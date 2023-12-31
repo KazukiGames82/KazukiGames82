@@ -7,7 +7,7 @@
 
   - Multiples Mails (...)
   - Quick Search (...)
-  - Dynamic Infos (...)
-  - KeyLocks (...)
+  - Dynamic Infos (v4.340.2 or latest) (Last Update: 12/31/2023)
+  - KeyLocks (v4.330.150 or latest) (Last Update: 12/31/2023)
   - Karmy (...)
   - YourWeather (...)
