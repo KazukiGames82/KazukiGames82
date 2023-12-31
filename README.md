@@ -5,9 +5,9 @@
 
 <h4><b>Droptop Community Apps</b></h4>
 
-  - Multiples Mails (...)
-  - Quick Search (...)
+  - Multiples Mails (Updating App...)
+  - Quick Search (v4.330.150 or latest) (Last Update: 12/3/2023)
   - Dynamic Infos (v4.340.2 or latest) (Last Update: 12/31/2023)
   - KeyLocks (v4.330.150 or latest) (Last Update: 12/31/2023)
-  - Karmy (...)
-  - YourWeather (...)
+  - Karmy (no official release)
+  - YourWeather (No official release)
