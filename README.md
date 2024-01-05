@@ -9,5 +9,5 @@
   - Quick Search (v4.330.150 or latest) (Last Update: 12/3/2023)
   - Dynamic Infos (v4.340.2 or latest) (Last Update: 12/31/2023)
   - KeyLocks (v4.330.150 or latest) (Last Update: 12/31/2023)
-  - Karmy (No official release)
+  - Karmy (v4.340 or latest) (Last Update: 1/3/2024)
   - YourWeather (No official release)
