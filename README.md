@@ -7,7 +7,7 @@
 
   - Multiples Mails (v4.340.2 or latest) (Last Update: 12/31/2023)
   - Quick Search (v4.330.150 or latest) (Last Update: 12/3/2023)
-  - [Dynamic Infos]([https://github.com/KazukiGames82/Dynamic_Infos-KazukiGames82](https://github.com/KazukiGames82/Dynamic_Infos-KazukiGames82/blob/main/README.md#dynamic-infos---kazukigames82))
+  - [Dynamic Infos](https://github.com/KazukiGames82/Dynamic_Infos-KazukiGames82/blob/main/README.md#dynamic-infos---kazukigames82)
     - **v4.340** or latest.
   - [KeyLocks]
     - **v4.330.150** or latest
