@@ -9,6 +9,7 @@
   - Quick Search (v4.330.150 or latest) (Last Update: 12/3/2023)
   - [Dynamic Infos](https://github.com/KazukiGames82/Dynamic_Infos-KazukiGames82)
     - **v4.340** or latest.
-  - KeyLocks (v4.330.150 or latest) (Last Update: 1/12/2024) ✅
+  - [KeyLocks]
+    - **v4.330.150** or latest
   - Karmy (v4.340 or latest) (Last Update: 1/3/2024)
   - YourWeather (No official release)
