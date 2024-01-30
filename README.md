@@ -5,11 +5,12 @@
 
 <h4><b>Droptop Community Apps</b></h4>
 
-  - Multiples Mails (v4.340.2 or latest) (Last Update: 12/31/2023)
-  - Quick Search (v4.330.150 or latest) (Last Update: 12/3/2023)
   - [Dynamic Infos](https://github.com/KazukiGames82/Dynamic_Infos-KazukiGames82/blob/main/README.md#dynamic-infos---kazukigames82)
     - **v4.340** or latest.
+  - Karmy (v4.340 or latest) (Last Update: 1/3/2024)
   - [KeysLocks](https://github.com/KazukiGames82/KeysLocks-KazukiGames82/blob/main/README.md#keyslocks---kazukigames82)
     - **v4.330.150** or latest
-  - Karmy (v4.340 or latest) (Last Update: 1/3/2024)
+  - Multiples Mails (v4.340.2 or latest) (Last Update: 12/31/2023)
+  - Quick Search (v4.330.150 or latest) (Last Update: 12/3/2023)
+  - Uptimer (v4.330.150)
   - YourWeather (No official release)
