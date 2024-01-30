@@ -15,7 +15,7 @@
     - **v4.340.2** or latest.
   - **[Quick Search](https://github.com/KazukiGames82/Quick_Search-KazukiGames82/blob/main/README.md#quick-search---kazukigames82)**
     - **v4.330.150** or latest.
-  - Uptimer
+  - **[Uptimer](https://github.com/KazukiGames82/Uptimer-KazukiGames82/blob/main/README.md#uptimer---kazukigames82)**
     - **v4.330.150** or latest.
   - YourWeather
     - No official release.
