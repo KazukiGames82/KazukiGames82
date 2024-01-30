@@ -5,10 +5,11 @@
 
 <h4><b>Droptop Community Apps</b></h4>
 
-  - [Dynamic Infos](https://github.com/KazukiGames82/Dynamic_Infos-KazukiGames82/blob/main/README.md#dynamic-infos---kazukigames82)
-    - **v4.340** or latest.
-  - Karmy (v4.340 or latest) (Last Update: 1/3/2024)
-  - [KeysLocks](https://github.com/KazukiGames82/KeysLocks-KazukiGames82/blob/main/README.md#keyslocks---kazukigames82)
+  - **[Dynamic Infos](https://github.com/KazukiGames82/Dynamic_Infos-KazukiGames82/blob/main/README.md#dynamic-infos---kazukigames82)**
+    - **v4.340.2** or latest.
+  - Karmy
+    - **v4.340.2** or latest.
+  - **[KeysLocks](https://github.com/KazukiGames82/KeysLocks-KazukiGames82/blob/main/README.md#keyslocks---kazukigames82)**
     - **v4.330.150** or latest
   - Multiples Mails
     - **v4.340.2** or latest.
