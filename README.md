@@ -13,7 +13,7 @@
     - **v4.330.150** or latest
   - **[Multiples Mails](https://github.com/KazukiGames82/Multiples_Mails-KazukiGames82/blob/main/README.md#multiples-mails---kazukigames82)**
     - **v4.340.2** or latest.
-  - Quick Search
+  - **[Quick Search](https://github.com/KazukiGames82/Quick_Search-KazukiGames82/blob/main/README.md#quick-search---kazukigames82)**
     - **v4.330.150** or latest.
   - Uptimer
     - **v4.330.150** or latest.
