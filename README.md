@@ -11,7 +11,7 @@
     - **v4.340.2** or latest.
   - **[KeysLocks](https://github.com/KazukiGames82/KeysLocks-KazukiGames82/blob/main/README.md#keyslocks---kazukigames82)**
     - **v4.330.150** or latest
-  - Multiples Mails
+  - **[Multiples Mails](https://github.com/KazukiGames82/Multiples_Mails-KazukiGames82/blob/main/README.md#multiples-mails---kazukigames82)**
     - **v4.340.2** or latest.
   - Quick Search
     - **v4.330.150** or latest.
