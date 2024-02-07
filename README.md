@@ -7,7 +7,7 @@
 
   - **[Dynamic Infos](https://github.com/KazukiGames82/Dynamic_Infos-KazukiGames82/blob/main/README.md#dynamic-infos---kazukigames82)**
     - **v4.340.2** or latest.
-  - Karmy
+  - **[Karmy](https://github.com/KazukiGames82/Karmy-KazukiGames82/blob/main/README.md#karmy---kazukigames82)**
     - **v4.340.2** or latest.
   - **[KeysLocks](https://github.com/KazukiGames82/KeysLocks-KazukiGames82/blob/main/README.md#keyslocks---kazukigames82)**
     - **v4.330.150** or latest
