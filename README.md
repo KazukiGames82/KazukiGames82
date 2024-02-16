@@ -6,7 +6,7 @@
 <h4><b>Droptop Community Apps</b></h4>
 
   - **[Dynamic Infos](https://github.com/KazukiGames82/Dynamic_Infos-KazukiGames82/blob/main/README.md#dynamic-infos---kazukigames82)**
-    - **v4.340.2** or latest.
+    - **v4.340.53** or latest.
   - **[Karmy](https://github.com/KazukiGames82/Karmy-KazukiGames82/blob/main/README.md#karmy---kazukigames82)**
     - **v4.340.2** or latest.
   - **[KeysLocks](https://github.com/KazukiGames82/KeysLocks-KazukiGames82/blob/main/README.md#keyslocks---kazukigames82)**
