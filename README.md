@@ -17,5 +17,7 @@
     - **v4.330.150** or latest.
   - **[Uptimer](https://github.com/KazukiGames82/Uptimer-KazukiGames82/blob/main/README.md#uptimer---kazukigames82)**
     - **v4.330.150** or latest.
-  - YourWeather
-    - No official release.
+
+<h4><b>Rainmeter Plugins</b></h4>
+
+  - **[PluginBatterySaver](https://github.com/KazukiGames82/PluginBatterySaver)**
