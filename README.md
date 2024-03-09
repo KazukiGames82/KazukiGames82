@@ -17,4 +17,4 @@
 
 <h1 align="justify">Rainmeter Plugins</h1>
 
-  - [PluginBatterySaver](https://github.com/KazukiGames82/PluginBatterySaver)
+  - [BatterySaver](https://github.com/KazukiGames82/PluginBatterySaver)
