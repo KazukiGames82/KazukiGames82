@@ -6,6 +6,12 @@
 
 <h1 align="justify">Droptop Community Apps</h1>
 
+<br>
+
+  - [Community Apps Templates](https://github.com/KazukiGames82/Community-Apps-Template)
+
+<br>
+
   - [Dynamic Infos](https://github.com/KazukiGames82/Dynamic_Infos-KazukiGames82/blob/main/README.md#dynamic-infos---kazukigames82)
   - [Karmy](https://github.com/KazukiGames82/Karmy-KazukiGames82/blob/main/README.md#karmy---kazukigames82)
   - [KeysLocks](https://github.com/KazukiGames82/KeysLocks-KazukiGames82/blob/main/README.md#keyslocks---kazukigames82)
