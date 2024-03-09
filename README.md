@@ -8,7 +8,7 @@
 
 <br>
 
-  - [Community Apps Templates](https://github.com/KazukiGames82/Community-Apps-Template)
+  - [Community Apps Templates](https://github.com/KazukiGames82/Community-Apps-Templates/tree/main)
 
 <br>
 
