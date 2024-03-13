@@ -8,16 +8,21 @@
 
 <br>
 
+- Templates/Tips
   - [Community Apps Templates](https://github.com/KazukiGames82/Community-Apps-Templates/tree/main)
 
 <br>
 
+- KazukiGames's apps
   - [Dynamic Infos](https://github.com/KazukiGames82/Dynamic_Infos-KazukiGames82/blob/main/README.md#dynamic-infos---kazukigames82)
   - [Karmy](https://github.com/KazukiGames82/Karmy-KazukiGames82/blob/main/README.md#karmy---kazukigames82)
   - [KeysLocks](https://github.com/KazukiGames82/KeysLocks-KazukiGames82/blob/main/README.md#keyslocks---kazukigames82)
   - [Multiples Mails](https://github.com/KazukiGames82/Multiples_Mails-KazukiGames82/blob/main/README.md#multiples-mails---kazukigames82)
   - [Quick Search](https://github.com/KazukiGames82/Quick_Search-KazukiGames82/blob/main/README.md#quick-search---kazukigames82)
   - [Uptimer](https://github.com/KazukiGames82/Uptimer-KazukiGames82/blob/main/README.md#uptimer---kazukigames82)
+
+- Forks
+  - [Media_Control-Yaron](https://github.com/KazukiGames82/Media_Control-Yaron)
 
 <h1></h1>
 
