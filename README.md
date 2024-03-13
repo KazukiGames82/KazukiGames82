@@ -11,8 +11,6 @@
 - Templates/Tips
   - [Community Apps Templates](https://github.com/KazukiGames82/Community-Apps-Templates/tree/main)
 
-<br>
-
 - KazukiGames's apps
   - [Dynamic Infos](https://github.com/KazukiGames82/Dynamic_Infos-KazukiGames82/blob/main/README.md#dynamic-infos---kazukigames82)
   - [Karmy](https://github.com/KazukiGames82/Karmy-KazukiGames82/blob/main/README.md#karmy---kazukigames82)
