@@ -18,6 +18,7 @@
   - [Multiples Mails](https://github.com/KazukiGames82/Multiples_Mails-KazukiGames82/blob/main/README.md#multiples-mails---kazukigames82)
   - [Quick Search](https://github.com/KazukiGames82/Quick_Search-KazukiGames82/blob/main/README.md#quick-search---kazukigames82)
   - [Uptimer](https://github.com/KazukiGames82/Uptimer-KazukiGames82/blob/main/README.md#uptimer---kazukigames82)
+  - [Duolingo](https://github.com/KazukiGames82/Duolingo-KazukiGames82/blob/main/README.md#duolingo---kazukigames82)
 
 - Forks
   - [Media_Control-Yaron](https://github.com/KazukiGames82/Media_Control-Yaron)
