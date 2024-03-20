@@ -4,7 +4,7 @@
 
 <h1></h1>
 
-<h1 align="justify">Droptop Community Apps</h1>
+<h1 align="justify">Droptop Community Apps / Themes</h1>
 
 <br>
 
@@ -20,6 +20,8 @@
   - [Uptimer](https://github.com/KazukiGames82/Uptimer-KazukiGames82/blob/main/README.md#uptimer---kazukigames82)
   - [Duolingo](https://github.com/KazukiGames82/Duolingo-KazukiGames82/blob/main/README.md#duolingo---kazukigames82)
 
+- KazukiGames's themes
+  - [Stardew Valley]
 - Forks
   - [Media_Control-Yaron](https://github.com/KazukiGames82/Media_Control-Yaron)
 
