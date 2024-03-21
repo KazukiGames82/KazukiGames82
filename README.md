@@ -1,10 +1,10 @@
-<h1 align="justify">Rainmeter Skins</h1>
+<h2 align="left">Rainmeter Skins</h2>
 
   - [ttyclock](https://github.com/KazukiGames/ttyclock-for-rainmeter/blob/main/README.md)
 
 <h1></h1>
 
-<h1 align="justify">Droptop Community Apps / Themes</h1>
+<h2 align="left">Droptop Community Apps / Themes</h2>
 
 <br>
 
@@ -28,6 +28,6 @@
 
 <h1></h1>
 
-<h1 align="justify">Rainmeter Plugins</h1>
+<h2 align="left">Rainmeter Plugins</h2>
 
   - [BatterySaver](https://github.com/KazukiGames82/PluginBatterySaver)
