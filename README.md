@@ -21,7 +21,7 @@
   - [Duolingo](https://github.com/KazukiGames82/Duolingo-KazukiGames82/blob/main/README.md#duolingo---kazukigames82)
 
 - KazukiGames's themes
-  - [Stardew Valley]
+  - [Stardew Valley](https://github.com/KazukiGames82/Stardew_Valley-KazukiGames82/blob/main/README.md#stardew-valley---kazukigames82)
 - Forks
   - [Media_Control-Yaron](https://github.com/KazukiGames82/Media_Control-Yaron)
 
