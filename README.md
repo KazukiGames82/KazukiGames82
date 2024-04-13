@@ -33,3 +33,10 @@
 <h2 align="left">Rainmeter Plugins</h2>
 
   - [BatterySaver](https://github.com/KazukiGames82/PluginBatterySaver)
+
+<h1></h1>
+
+<h2 align="left">Support me</h2>
+
+<a href="https://www.buymeacoffee.com/kazukigames82"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+
