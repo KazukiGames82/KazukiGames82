@@ -33,7 +33,7 @@
 <h2 align="left">Rainmeter Plugins / Utilities</h2>
 
   - [BatterySaver](https://github.com/KazukiGames82/PluginBatterySaver)
-  - [VirtualDesktop]
+  - [VirtualDesktop](https://github.com/KazukiGames82/VirtualDesktop-Rainmeter/blob/main/README.md#virtualdesktop---rainmeter)
 
 <h1></h1>
 
