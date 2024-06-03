@@ -8,9 +8,6 @@
 
 <br>
 
-- Templates/Tips
-  - [Community Apps Templates](https://github.com/KazukiGames82/Community-Apps-Templates/tree/main)
-
 - KazukiGames's apps
   - <a href="#"><img src="https://raw.githubusercontent.com/KazukiGames82/Dynamic_Infos-KazukiGames82/main/Images/Logo.png" alt="App1" width="18"></a> [Dynamic Infos](https://github.com/KazukiGames82/Dynamic_Infos-KazukiGames82/blob/main/README.md#dynamic-infos---kazukigames82)
   - <a href="#"><img src="https://raw.githubusercontent.com/KazukiGames82/Karmy-KazukiGames82/main/Images/Logo.png" alt="App2" width="18"></a> [Karmy](https://github.com/KazukiGames82/Karmy-KazukiGames82/blob/main/README.md#karmy---kazukigames82)
