@@ -37,4 +37,4 @@
 
 <h2 align="Center">Support me</h2>
 
-<p align="center"><a href="https://www.buymeacoffee.com/kazukigames82"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/kazukigames82"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>   <a href="https://ko-fi.com/kazukigames82"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a></p>
