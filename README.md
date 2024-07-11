@@ -18,10 +18,17 @@
   - <a href="#"><img src="https://raw.githubusercontent.com/KazukiGames82/Uptimer-KazukiGames82/main/Images/Logo.png" alt="App6" width="18"></a> [Uptimer](https://github.com/KazukiGames82/Uptimer-KazukiGames82/blob/main/README.md#uptimer---kazukigames82)
   - <a href="#"><img src="https://raw.githubusercontent.com/KazukiGames82/Duolingo-KazukiGames82/main/Images/Logo.png" alt="App7" width="18"></a> [Duolingo](https://github.com/KazukiGames82/Duolingo-KazukiGames82/blob/main/README.md#duolingo---kazukigames82)
   - <a href="#"><img src="https://raw.githubusercontent.com/KazukiGames82/VirtualDesktop-KazukiGames82/main/Images/Logo.png" alt="App8" width="18"></a> [Virtual Desktop](https://github.com/KazukiGames82/VirtualDesktop-KazukiGames82/blob/main/README.md#virtualdesktop---kazukigames82)
+  - <a href="#"><img src="" alt="App8" width="18"></a> [Time]
 
 - KazukiGames's themes
 
-  -  <a href="#"><img src="https://stardewvalleywiki.com/mediawiki/images/f/fd/Brown_Chicken.png" alt="StardewValley" width="16"></a> [Stardew Valley](https://github.com/KazukiGames82/Stardew_Valley-KazukiGames82/blob/main/README.md#stardew-valley---kazukigames82)
+  -  <a href="#"><img src="https://stardewvalleywiki.com/mediawiki/images/f/fd/Brown_Chicken.png" alt="Theme1" width="16"></a> [Stardew Valley](https://github.com/KazukiGames82/Stardew_Valley-KazukiGames82/blob/main/README.md#stardew-valley---kazukigames82)
+  -  <a href="#"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" alt="Theme2" width="16"></a> [Mocha Mauve]
+  -  <a href="#"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" alt="Theme3" width="16"></a> [Catppuccin Latte]
+  -  <a href="#"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" alt="Theme4" width="16"></a> [Catppuccin Frappé]
+  -  <a href="#"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" alt="StardewValley" width="16"></a> [Catppuccin Macchiato]
+  -  <a href="#"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" alt="StardewValley" width="16"></a> [Catppuccin Mocha]
+
 - Forks
   - [Media_Control-Yaron](https://github.com/KazukiGames82/Media_Control-Yaron)
   - [Disks-Phan]
