@@ -18,7 +18,7 @@
   - <a href="#"><img src="https://raw.githubusercontent.com/KazukiGames82/Uptimer-KazukiGames82/main/Images/Logo.png" alt="App6" width="18"></a> [Uptimer](https://github.com/KazukiGames82/Uptimer-KazukiGames82/blob/main/README.md#uptimer---kazukigames82)
   - <a href="#"><img src="https://raw.githubusercontent.com/KazukiGames82/Duolingo-KazukiGames82/main/Images/Logo.png" alt="App7" width="18"></a> [Duolingo](https://github.com/KazukiGames82/Duolingo-KazukiGames82/blob/main/README.md#duolingo---kazukigames82)
   - <a href="#"><img src="https://raw.githubusercontent.com/KazukiGames82/VirtualDesktop-KazukiGames82/main/Images/Logo.png" alt="App8" width="18"></a> [Virtual Desktop](https://github.com/KazukiGames82/VirtualDesktop-KazukiGames82/blob/main/README.md#virtualdesktop---kazukigames82)
-  - <a href="#"><img src="" alt="App8" width="18"></a> [Time]
+  - <a href="#"><img src="https://raw.githubusercontent.com/KazukiGames82/Time-KazukiGames82/main/Images/Logo.png" alt="App7" width="18"></a> [Time](https://github.com/KazukiGames82/Time-KazukiGames82/blob/main/README.md#time---kazukigames82)
 
 - KazukiGames's themes
 
