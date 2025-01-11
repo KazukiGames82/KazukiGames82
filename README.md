@@ -1,7 +1,7 @@
 <h2></h2><br>
 
 <p align="Center">
-  <a href="#"><img alt="Left1" src="/Assets/Left1.png" width="28" height="28"><img alt="KazukiGames82 Title" src="https://img.shields.io/badge/KazukiGames82%20%20•%20%2020%20%20-5500aa?style=for-the-badge"><img alt="Right1" src="/Assets/Right1.png" width="28" height="28"></a>
+  <a href="#"><img alt="Left1" src="/Assets/Left1.png" width="28" height="28"><img alt="KazukiGames82 Title" src="https://img.shields.io/badge/KazukiGames82%20%20•%20%2021%20%20-5500aa?style=for-the-badge"><img alt="Right1" src="/Assets/Right1.png" width="28" height="28"></a>
     <br>
   <a href="https://buymeacoffee.com/kazukigames82"><img alt="Left5" src="/Assets/Left5.png" width="28" height="28"><img alt="BuyMeACoffee Title" src="https://img.shields.io/badge/buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=333333"><img alt="Right5" src="/Assets/Right5.png" width="28" height="28"><img alt="tab" src="/Assets/tab.png" width="2" Height="28"></a>
   <a href="https://ko-fi.com/kazukigames82"><img alt="Left6" src="/Assets/Left6.png" width="28" height="28"><img alt="Kofi Title" src="https://img.shields.io/badge/Ko--Fi-FFFFFF?style=for-the-badge&logo=kofi"><img alt="Right6" src="/Assets/Right6.png" width="28" height="28"></a>
