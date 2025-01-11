@@ -6,6 +6,11 @@
   <a href="https://buymeacoffee.com/kazukigames82"><img alt="Left5" src="/Assets/Left5.png" width="28" height="28"><img alt="BuyMeACoffee Title" src="https://img.shields.io/badge/buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=333333"><img alt="Right5" src="/Assets/Right5.png" width="28" height="28"><img alt="tab" src="/Assets/tab.png" width="2" Height="28"></a>
   <a href="https://ko-fi.com/kazukigames82"><img alt="Left6" src="/Assets/Left6.png" width="28" height="28"><img alt="Kofi Title" src="https://img.shields.io/badge/Ko--Fi-FFFFFF?style=for-the-badge&logo=kofi"><img alt="Right6" src="/Assets/Right6.png" width="28" height="28"></a>
 </p>
+<div align="center">
+  <a href="https://discord.com/users/268458117421989888" >  
+  		<img src="https://lanyard.kyrie25.me/api/657141388139429900?imgStyle=square&useDisplayName=true&waveColor=f6305b&waveSpotifyColor=f6305b&gradient=f6305b-f6305b-f6305b-f6305b"  />  
+  </a>
+</div>
 
 <h2></h2><br>
 
